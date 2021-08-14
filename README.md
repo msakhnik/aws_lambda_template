@@ -1,6 +1,6 @@
 ## About The Project
 
-This is a simple Python AWS Lambda template with terraform and remote state.
+This is a Python AWS Lambda + Terraform + Remote State + Lambda Layer template
 
 
 It creates the following AWS resources:
